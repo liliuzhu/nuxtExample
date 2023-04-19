@@ -1,0 +1,2 @@
+# nuxtExample
+nuxtExample
